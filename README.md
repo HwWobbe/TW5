@@ -4,4 +4,6 @@
 * perhaps is needs to be 'index'html' ?
 
 Whilst trying to sort out the hosting issues, I am proceding to enhance the version of the TwFive file that will be uploded.
+* For now, I will simply try to learn more about this, by ...
+** ...
 * Next, I will need to evolve an efficient workFlow

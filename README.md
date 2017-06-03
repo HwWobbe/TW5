@@ -3,7 +3,7 @@
 * one likely cause may be the repo naming convention(s)
 * perhaps is needs to be 'index'html' ?
 
-Whilst trying to sort out the hosting issues, I am proceding to enhance the version of the TwFive file that will be uploded.
+Whilst trying to sort out the hosting issues, I am proceding to enhance the version of the TwFive file that will be uploaded.
 * For now, I will simply try to learn more about this, by ...
 ** ...
 * Next, I will need to evolve an efficient workFlow

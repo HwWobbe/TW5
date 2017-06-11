@@ -11,6 +11,7 @@ Whilst trying to sort out the hosting issues, I am proceding to enhance the vers
 * Next, I will need to evolve an efficient workFlow
 
 Things I will explore as time allows ...
+* https://github.com/wikilabs
 * http://mathcell.tiddlyspot.com/
 * http://kixam.github.io/TW5-datePicker/
 * http://slidesnstories.tiddlyspot.com/

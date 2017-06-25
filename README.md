@@ -1,4 +1,5 @@
 # TW5
+* a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
 
 At this moment ...
 * a test TW5 file was uploaded, but I do not seem to be able to activate it.

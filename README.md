@@ -16,6 +16,7 @@ Whilst trying to sort out the hosting issues, I am proceding to enhance the vers
 * Make sure to use local versions that sync (in case of CloudLoss)
 
 Things I will explore as time allows ...
+* https://github.com/Jermolene/TiddlyWiki5/tree/master/plugins/tiddlywiki/aws
 * https://github.com/wikilabs
 * http://mathcell.tiddlyspot.com/
 * http://kixam.github.io/TW5-datePicker/

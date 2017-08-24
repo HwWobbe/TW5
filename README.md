@@ -4,7 +4,7 @@
 At this moment ...
 * a test TW5 file was uploaded, but I do not seem to be able to activate it.
 * one likely cause may be the repo naming convention(s)
-* perhaps is needs to be 'index'html' ?
+* perhaps is needs to be 'index'.html' ?
 * research how to host a TW file here.
 
 
@@ -16,6 +16,7 @@ Whilst trying to sort out the hosting issues, I am proceding to enhance the vers
 * Make sure to use local versions that sync (in case of CloudLoss)
 
 Things I will explore as time allows ...
+* the use of UpDog.
 * https://github.com/Jermolene/TiddlyWiki5/tree/master/plugins/tiddlywiki/aws
 * https://github.com/wikilabs
 * http://mathcell.tiddlyspot.com/

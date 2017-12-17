@@ -1,6 +1,7 @@
 # TW5
 * a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
 * consider this in the light of now having a working RaspberryPi
+* test the headless version
 
 At this moment ...
 * a test TW5 file was uploaded, but I do not seem to be able to activate it.

@@ -1,5 +1,6 @@
 # TW5
 * a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
+* consider forking a TW5 repo
 * it should be possible to nest bullets with HTML
 * consider this in the light of now having a working RaspberryPi
 * test the headless version

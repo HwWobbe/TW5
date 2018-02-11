@@ -1,4 +1,5 @@
 # TW5
+* test tiddlyspot further
 * a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
 * consider forking a TW5 repo
 * it should be possible to nest bullets with HTML ... provide a link to one of the reference sites

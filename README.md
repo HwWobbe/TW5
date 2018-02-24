@@ -19,6 +19,7 @@ Whilst trying to sort out the hosting issues, I am proceding to enhance the vers
 ** ...
 * Next, I will need to evolve an efficient workFlow
 * perhaps this should be an initial version of TalesH, as a PhotoJournal, if only to benefit Kat.
+* rank the importance of these repos by means of Commit activity
 * Make sure to use local versions that sync (in case of CloudLoss)
 
 Things I will explore as time allows ...

@@ -11,6 +11,7 @@ At this moment ...
 * one likely cause may be the repo naming convention(s)
 * perhaps is needs to be 'index'.html' ?
 * research how to host a TW file here.
+* note the difference between the Edit and Update controls
 
 
 Whilst trying to sort out the hosting issues, I am proceding to enhance the version of the TwFive file that will be uploaded.

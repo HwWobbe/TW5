@@ -24,7 +24,7 @@ Whilst trying to sort out the hosting issues, I am proceding to enhance the vers
 * Make sure to use local versions that sync (in case of CloudLoss)
 
 Things I will explore as time allows ...
-* the use of UpDog.
+* the use of UpDog for hosting
 * https://github.com/Jermolene/TiddlyWiki5/tree/master/plugins/tiddlywiki/aws
 * https://github.com/wikilabs
 * http://mathcell.tiddlyspot.com/

@@ -1,7 +1,7 @@
 # TW5
 * refining my MultiUser environment
 * a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
-* it should be possible to nest bullets with HTML ... provide a link to one of the reference sites
+* it should be possible to nest bullets with HTML ... ( provide a link to one of the reference sites )
 * links like the preceding should be left in a Novice page.
 * consider this in the light of now having a working RaspberryPi
 * test the headless version

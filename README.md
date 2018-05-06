@@ -7,6 +7,7 @@
 * test the headless version
 
 At this moment ...
+* working on other aspects whilst awaiting planned core developments
 * a test TW5 file was uploaded, but I do not seem to be able to activate it.
 * one likely cause may be the repo naming convention(s)
 * perhaps is needs to be 'index'.html' ?

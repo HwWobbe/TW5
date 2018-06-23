@@ -1,4 +1,5 @@
 # TW5
+* test the use of an index.html file
 * a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
 * it should be possible to nest bullets with HTML ... ( provide a link to one of the reference sites )
 * links like the preceding should be left in a Novice page.

@@ -1,5 +1,5 @@
 # TW5
-* reciew https://tiddlywiki.com/#Using%20TiddlyWiki%20for%20GitHub%20project%20documentation
+* review https://tiddlywiki.com/#Using%20TiddlyWiki%20for%20GitHub%20project%20documentation
 * test the use of an index.html file
 * a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
 * it should be possible to nest bullets with HTML ... ( provide a link to one of the reference sites )

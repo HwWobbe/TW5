@@ -5,6 +5,9 @@
 * TwStyleH refinements ...
 * it should be possible to nest bullets with HTML ... ( provide a link to one of the reference sites )
 * links like the preceding should be left in a Novice page.
+
+<hr>
+
 * consider this in the light of now having a working RaspberryPi
 * test the headless version
 

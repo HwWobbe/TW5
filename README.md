@@ -35,7 +35,7 @@ Things I will explore as time allows ...
 * https://github.com/Jermolene/TiddlyWiki5/tree/master/plugins/tiddlywiki/aws
 * https://github.com/wikilabs
 * http://mathcell.tiddlyspot.com/
-* http://kixam.github.io/TW5-datePicker/
+* current versus http://kixam.github.io/TW5-datePicker/
 * http://slidesnstories.tiddlyspot.com/
 
 ### related (to TW)

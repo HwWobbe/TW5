@@ -1,6 +1,6 @@
 # TW5
 * review https://tiddlywiki.com/#Using%20TiddlyWiki%20for%20GitHub%20project%20documentation
-* review the emerging intermediate software layers
+* review the emerging intermediate software layers (e.g. Savers )
 * a review of ... https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/ ... seems promising
 * test the use of an index.html file
 * upload an HTML file

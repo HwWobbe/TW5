@@ -16,7 +16,6 @@
 
 ## At this moment ...
 * .. 2019.04.14: ...
-* .. 2018-12-2?
 * testing TwStyleH refinements
 * working on other aspects whilst awaiting planned core developments
 * a test TW5 file was uploaded, but I do not seem to be able to activate it.

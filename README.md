@@ -17,7 +17,7 @@
 ## At this moment ...
 * .. 2019.04.14: ...
 * testing TwStyleH refinements
-* working on other aspects whilst awaiting planned core developments
+* working on other aspects whilst awaiting planned core developments in 5.1.20.
 * a test TW5 file was uploaded, but I do not seem to be able to activate it.
 * one likely cause may be the repo naming convention(s)
 * perhaps it needs to be 'index'.html' ?

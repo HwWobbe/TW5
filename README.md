@@ -15,6 +15,7 @@
 <hr>
 
 ## At this moment ...
+* .. 2019.04.14: ...
 * .. 2018-12-2?
 * testing TwStyleH refinements
 * working on other aspects whilst awaiting planned core developments

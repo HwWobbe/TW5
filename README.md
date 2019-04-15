@@ -5,6 +5,7 @@
 * test the use of an index.html file
 * upload an HTML file
 * it should be possible to nest bullets with HTML ... ( provide a link to one of the reference sites )
+* * compare that to this markDown method
 * links like the preceding should be left in a Novice page.
 
 <hr>
